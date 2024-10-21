@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <body className="mx-auto container max-w-[80%]">
+      <body>
         <header>
           <Navbar />
         </header>
